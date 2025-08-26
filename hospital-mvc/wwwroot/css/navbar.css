@@ -1,0 +1,13 @@
+﻿.navbar{
+    display:flex;
+    background-color:aquamarine;
+}
+
+.navbar ul{
+    list-style:none;
+    text-decoration:none;
+}
+
+.navbar li a{
+    text-decoration:none;
+}

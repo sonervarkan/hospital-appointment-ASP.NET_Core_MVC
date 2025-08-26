@@ -1,0 +1,28 @@
+﻿@{
+    Layout = null;
+}
+
+@model List<hospital_mvc.Models.Entities.Departments>;
+
+<html>
+<head>
+    <title>Add Department</title>
+    <link rel="stylesheet" href="/css/navbar.css" />
+</head>
+<body>
+    <div class="navbar">
+        <ul>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+        </ul>
+    </div>
+    <form action="add_department" method="post">
+        <label for="departmentname">Department Name</label>
+        <input type="text" id="departmentname" name="departmentname"/>
+
+        <button type="submit">Add</button>
+    </form>
+</body>
+</html>
+

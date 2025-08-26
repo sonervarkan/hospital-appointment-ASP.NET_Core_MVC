@@ -1,0 +1,690 @@
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\appsettings.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.staticwebassets.runtime.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.staticwebassets.endpoints.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.exe
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.deps.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.runtimeconfig.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.pdb
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Humanizer.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.csproj.AssemblyReference.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.AssemblyInfoInputs.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.AssemblyInfo.cs
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.csproj.CoreCompileInputs.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.RazorAssemblyInfo.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.RazorAssemblyInfo.cs
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\scopedcss\bundle\hospital-mvc.styles.css
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\scopedcss\projectbundle\hospital-mvc.bundle.scp.css
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\r6v9j61xc3-b9sayid5wm.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\vq6pts57ju-61n19gt1b8.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\hl0o1qujyu-xtxxf3hu2r.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\hszfy78v2z-bqjiyaj88i.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\ssbdqz4cuu-c2jlpeoesf.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\q2m9c65rdr-erw9l3u2r3.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\5zxp5qnqdd-aexeepp0ev.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\gh6ag02mz6-d7shbmvgxk.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\vsx3n5br6e-ausgxo2sd3.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\qotu7zofvj-k8d9w2qqmf.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\q3wuivpyej-cosvhxvwiu.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\otvni3m4t0-ub07r2b239.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\8gmvtvn0d8-fvhpjtyr6v.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\kiswr084if-b7pk76d08c.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\sj0ieuxu2t-fsbi9cje9m.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\gtc3w0sjzn-rzd6atqjts.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\0d8lk1hyrr-ee0r1s7dh0.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\wq4xnbohi1-dxx9fxp4il.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\qeologovxc-jd9uben2k1.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\yclxaef3wv-khv3u5hwcm.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\hjafib4eh1-r4e9w2rdcm.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\97atotww2l-lcd1t2u6c8.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\o6ter1hn92-c2oey78nd0.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\gs1nudy7e0-tdbxkamptv.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\21ij414g8t-j5mq2jizvt.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\iduovvs29e-06098lyss8.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\wq5sy7bz8l-nvvlpmu67g.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\35qqh9anwj-s35ty4nyc5.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\r5wchkyq8s-pj5nd1wqec.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\wx6jxrkx1f-46ein0sx1k.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\0p8n506ndo-v0zj4ognzu.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\evmib9ddqv-37tfw0ft22.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\61i7wjz7a3-hrwsygsryq.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\ahx1pm4y31-pk9g2wxc8p.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\iz06axe02l-ft3s53vfgj.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\745e96bko3-6cfz1n2cew.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\ey7upee6sx-6pdc2jztkx.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\bwfbbupzkr-493y06b0oq.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\psaa5kfvmb-iovd86k7lj.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\dad3s7t626-vr1egmr9el.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\3zvbp0ear3-kbrnm935zg.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\vqknq87dy3-jj8uyg4cgr.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\u4wwmp4cxh-y7v9cxd14o.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\awmfoh6nnp-notf2xhcfb.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\mkjemv3o8i-h1s4sie4z3.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\mwd13zaa3m-63fj8s7r0e.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\zxd4levjak-0j3bgjxly4.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\nkq8ign3tl-47otxtyo56.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\0fa3nctk28-4v8eqarkd7.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\yhn891jfsa-356vix0kms.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\txzowdll8t-83jwlth58m.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\cwqy9lwubd-mrlpezrjn3.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\brgyz2yxia-lzl9nlhx6b.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\w0r7fy6cjt-ag7o75518u.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\onnozj80b2-x0q3zqp4vz.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\c4mdcyvq27-0i3buxo5is.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\olejjqvh1j-o1o13a6vjx.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\tlop3bgcgp-ttgo8qnofa.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\2ylpx5hpq1-2z0ns9nrw6.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\bgl2lb7fxv-muycvpuwrr.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\c1yqmrytjl-87fc7y1x7t.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\xm2bsvb556-mlv21k5csn.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\3ffrey33e9-n93ozcny6m.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\b78d90cr9l-n93ozcny6m.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital.60196DB2.Up2Date
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\refint\hospital-mvc.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.pdb
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.genruntimeconfig.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\ref\hospital-mvc.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\2tc6xtal35-rku169kz5l.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\appsettings.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.staticwebassets.endpoints.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.staticwebassets.runtime.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.exe
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.deps.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.runtimeconfig.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.pdb
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Humanizer.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.csproj.AssemblyReference.cache
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.AssemblyInfoInputs.cache
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.AssemblyInfo.cs
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.csproj.CoreCompileInputs.cache
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.RazorAssemblyInfo.cache
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.RazorAssemblyInfo.cs
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\scopedcss\bundle\hospital-mvc.styles.css
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\scopedcss\projectbundle\hospital-mvc.bundle.scp.css
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\2tc6xtal35-rku169kz5l.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\r6v9j61xc3-b9sayid5wm.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\vq6pts57ju-61n19gt1b8.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\hl0o1qujyu-xtxxf3hu2r.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\hszfy78v2z-bqjiyaj88i.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\ssbdqz4cuu-c2jlpeoesf.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\q2m9c65rdr-erw9l3u2r3.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\5zxp5qnqdd-aexeepp0ev.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\gh6ag02mz6-d7shbmvgxk.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\vsx3n5br6e-ausgxo2sd3.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\qotu7zofvj-k8d9w2qqmf.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\q3wuivpyej-cosvhxvwiu.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\otvni3m4t0-ub07r2b239.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\8gmvtvn0d8-fvhpjtyr6v.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\kiswr084if-b7pk76d08c.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\sj0ieuxu2t-fsbi9cje9m.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\gtc3w0sjzn-rzd6atqjts.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\0d8lk1hyrr-ee0r1s7dh0.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\wq4xnbohi1-dxx9fxp4il.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\qeologovxc-jd9uben2k1.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\yclxaef3wv-khv3u5hwcm.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\hjafib4eh1-r4e9w2rdcm.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\97atotww2l-lcd1t2u6c8.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\o6ter1hn92-c2oey78nd0.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\gs1nudy7e0-tdbxkamptv.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\21ij414g8t-j5mq2jizvt.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\iduovvs29e-06098lyss8.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\wq5sy7bz8l-nvvlpmu67g.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\35qqh9anwj-s35ty4nyc5.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\r5wchkyq8s-pj5nd1wqec.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\wx6jxrkx1f-46ein0sx1k.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\0p8n506ndo-v0zj4ognzu.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\evmib9ddqv-37tfw0ft22.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\61i7wjz7a3-hrwsygsryq.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\ahx1pm4y31-pk9g2wxc8p.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\iz06axe02l-ft3s53vfgj.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\745e96bko3-6cfz1n2cew.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\ey7upee6sx-6pdc2jztkx.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\bwfbbupzkr-493y06b0oq.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\psaa5kfvmb-iovd86k7lj.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\dad3s7t626-vr1egmr9el.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\3zvbp0ear3-kbrnm935zg.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\vqknq87dy3-jj8uyg4cgr.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\u4wwmp4cxh-y7v9cxd14o.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\awmfoh6nnp-notf2xhcfb.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\mkjemv3o8i-h1s4sie4z3.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\mwd13zaa3m-63fj8s7r0e.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\zxd4levjak-0j3bgjxly4.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\nkq8ign3tl-47otxtyo56.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\0fa3nctk28-4v8eqarkd7.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\yhn891jfsa-356vix0kms.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\txzowdll8t-83jwlth58m.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\cwqy9lwubd-mrlpezrjn3.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\brgyz2yxia-lzl9nlhx6b.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\w0r7fy6cjt-ag7o75518u.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\onnozj80b2-x0q3zqp4vz.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\c4mdcyvq27-0i3buxo5is.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\olejjqvh1j-o1o13a6vjx.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\tlop3bgcgp-ttgo8qnofa.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\2ylpx5hpq1-2z0ns9nrw6.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\bgl2lb7fxv-muycvpuwrr.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\c1yqmrytjl-87fc7y1x7t.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\xm2bsvb556-mlv21k5csn.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\3ffrey33e9-n93ozcny6m.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\compressed\b78d90cr9l-n93ozcny6m.gz
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital.60196DB2.Up2Date
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\refint\hospital-mvc.dll
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.pdb
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.genruntimeconfig.cache
+C:\Users\soner\OneDrive\Masaüstü\MVC PROJELERİ\hospital-mvc\hospital-mvc\obj\Debug\net9.0\ref\hospital-mvc.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\appsettings.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.staticwebassets.endpoints.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.staticwebassets.runtime.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.exe
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.deps.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.runtimeconfig.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\hospital-mvc.pdb
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Humanizer.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.csproj.AssemblyReference.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.AssemblyInfoInputs.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.AssemblyInfo.cs
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.csproj.CoreCompileInputs.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.RazorAssemblyInfo.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.RazorAssemblyInfo.cs
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\scopedcss\bundle\hospital-mvc.styles.css
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\scopedcss\projectbundle\hospital-mvc.bundle.scp.css
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\2tc6xtal35-rku169kz5l.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\r6v9j61xc3-b9sayid5wm.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\vq6pts57ju-61n19gt1b8.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\hl0o1qujyu-xtxxf3hu2r.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\hszfy78v2z-bqjiyaj88i.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\ssbdqz4cuu-c2jlpeoesf.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\q2m9c65rdr-erw9l3u2r3.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\5zxp5qnqdd-aexeepp0ev.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\gh6ag02mz6-d7shbmvgxk.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\vsx3n5br6e-ausgxo2sd3.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\qotu7zofvj-k8d9w2qqmf.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\q3wuivpyej-cosvhxvwiu.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\otvni3m4t0-ub07r2b239.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\8gmvtvn0d8-fvhpjtyr6v.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\kiswr084if-b7pk76d08c.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\sj0ieuxu2t-fsbi9cje9m.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\gtc3w0sjzn-rzd6atqjts.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\0d8lk1hyrr-ee0r1s7dh0.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\wq4xnbohi1-dxx9fxp4il.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\qeologovxc-jd9uben2k1.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\yclxaef3wv-khv3u5hwcm.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\hjafib4eh1-r4e9w2rdcm.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\97atotww2l-lcd1t2u6c8.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\o6ter1hn92-c2oey78nd0.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\gs1nudy7e0-tdbxkamptv.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\21ij414g8t-j5mq2jizvt.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\iduovvs29e-06098lyss8.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\wq5sy7bz8l-nvvlpmu67g.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\35qqh9anwj-s35ty4nyc5.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\r5wchkyq8s-pj5nd1wqec.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\wx6jxrkx1f-46ein0sx1k.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\0p8n506ndo-v0zj4ognzu.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\evmib9ddqv-37tfw0ft22.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\61i7wjz7a3-hrwsygsryq.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\ahx1pm4y31-pk9g2wxc8p.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\iz06axe02l-ft3s53vfgj.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\745e96bko3-6cfz1n2cew.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\ey7upee6sx-6pdc2jztkx.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\bwfbbupzkr-493y06b0oq.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\psaa5kfvmb-iovd86k7lj.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\dad3s7t626-vr1egmr9el.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\3zvbp0ear3-kbrnm935zg.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\vqknq87dy3-jj8uyg4cgr.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\u4wwmp4cxh-y7v9cxd14o.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\awmfoh6nnp-notf2xhcfb.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\mkjemv3o8i-h1s4sie4z3.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\mwd13zaa3m-63fj8s7r0e.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\zxd4levjak-0j3bgjxly4.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\nkq8ign3tl-47otxtyo56.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\0fa3nctk28-4v8eqarkd7.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\yhn891jfsa-356vix0kms.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\txzowdll8t-83jwlth58m.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\cwqy9lwubd-mrlpezrjn3.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\brgyz2yxia-lzl9nlhx6b.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\w0r7fy6cjt-ag7o75518u.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\onnozj80b2-x0q3zqp4vz.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\c4mdcyvq27-0i3buxo5is.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\olejjqvh1j-o1o13a6vjx.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\tlop3bgcgp-ttgo8qnofa.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\2ylpx5hpq1-2z0ns9nrw6.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\bgl2lb7fxv-muycvpuwrr.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\c1yqmrytjl-87fc7y1x7t.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\xm2bsvb556-mlv21k5csn.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\3ffrey33e9-n93ozcny6m.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\compressed\b78d90cr9l-n93ozcny6m.gz
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital.60196DB2.Up2Date
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\refint\hospital-mvc.dll
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.pdb
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\hospital-mvc.genruntimeconfig.cache
+C:\Users\soner\OneDrive\Masaüstü\hospital-appointment-app-mvc\hospital-mvc\obj\Debug\net9.0\ref\hospital-mvc.dll

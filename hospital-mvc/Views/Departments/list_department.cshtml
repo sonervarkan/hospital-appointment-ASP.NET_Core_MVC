@@ -1,0 +1,38 @@
+﻿@{
+    Layout = null;
+}
+
+@model List<hospital_mvc.Models.Entities.Departments>;
+
+<html>
+<head>
+    <title>List Department</title>
+    <link rel="stylesheet" href="/css/navbar.css" />
+</head>
+<body>
+    <div class="navbar">
+        <ul>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+        </ul>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th> Department Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var department in Model)
+            {
+                <tr>
+                    <td>@department.DepartmentName</td> // Burası düzeltildi
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</body>
+</html>

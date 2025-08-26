@@ -1,0 +1,45 @@
+﻿@model AppointmentsViewModel;
+
+<html>
+<head>
+    <title>List Appointment</title>
+    <link rel="stylesheet" href="/css/navbar.css" />
+</head>
+<body>
+    <div class="navbar">
+        <ul>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+        </ul>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th> Patient Name</th>
+                <th> Patient Surname</th>
+                <th> Patient Tc No</th>
+                <th> Doctor Name Surname</th>
+                <th> Department Name</th>
+                <th> Appointment Date</th>
+                <th> Appointment Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var appointment in Model.Appointments)
+            {
+                <tr>
+                    <td>@appointment.Patient.PatientName</td>
+                    <td>@appointment.Patient.PatientSurname</td>
+                    <td>@appointment.Patient.PatientTcNo</td>
+                    <td>@appointment.Doctor.DoctorNameSurname</td>
+                    <td>@appointment.Doctor.Department.DepartmentName</td>
+                    <td>@appointment.AppointmentDate.ToString("yyyy-MM-dd")</td>
+                    <td>@appointment.Time.Hour</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

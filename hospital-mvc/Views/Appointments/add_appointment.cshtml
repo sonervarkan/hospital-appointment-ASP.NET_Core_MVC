@@ -1,0 +1,129 @@
+﻿@model AppointmentsViewModel
+
+<h2>Add a New Appointment</h2>
+
+<form asp-action="add_appointment" method="post">
+    <div class="form-group">
+        <label asp-for="PatientName" class="control-label">Hasta Adı</label>
+        <input asp-for="PatientName" class="form-control" />
+        <span asp-validation-for="PatientName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PatientSurname" class="control-label">Hasta Soyadı</label>
+        <input asp-for="PatientSurname" class="form-control" />
+        <span asp-validation-for="PatientSurname" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PatientTcNo" class="control-label">TC Kimlik No</label>
+        <input asp-for="PatientTcNo" class="form-control" />
+        <span asp-validation-for="PatientTcNo" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DepartmentId" class="control-label">Departman</label>
+        <select id="department-dropdown" asp-for="DepartmentId" asp-items="Model.Departments" class="form-control">
+            <option value="">--Lütfen bir Departman seçiniz--</option>
+        </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DoctorId" class="control-label">Doktor Adı Soyadı</label>
+        <select id="doctor-dropdown" asp-for="DoctorId" asp-items="Model.Doctors" class="form-control">
+            <option value="">--Lütfen bir Doktor seçiniz--</option>
+        </select>
+        <span asp-validation-for="DoctorId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AppointmentDate" class="control-label">Randevu Tarihi</label>
+        <input id="date-input" asp-for="AppointmentDate" class="form-control" type="date" />
+        <span asp-validation-for="AppointmentDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TimeId" class="control-label">Saatler</label>
+        <select id="time-dropdown" asp-for="TimeId" asp-items="Model.Times" class="form-control">
+            <option value="">--Lütfen bir Saat seçiniz--</option>
+        </select>
+        <span asp-validation-for="TimeId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-3">
+        <button type="submit" class="btn btn-primary">Randevu Ekle</button>
+    </div>
+</form>
+
+<div>
+    <a asp-action="list_appointment">Randevu Listesine Dön</a>
+</div>
+
+@section Scripts {
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+          
+            $('#department-dropdown').change(function () {
+                var selectedDepartmentId = $(this).val();
+
+                $('#doctor-dropdown').empty();
+                $('#doctor-dropdown').append('<option value="">--Lütfen bir Doktor seçiniz--</option>');
+
+              
+                $('#time-dropdown').empty();
+                $('#time-dropdown').append('<option value="">--Lütfen bir Saat seçiniz--</option>');
+
+                if (selectedDepartmentId) {
+                    $.ajax({
+                        url: '@Url.Action("GetDoctorsByDepartment", "Appointments")', 
+                        type: 'GET',
+                        data: { departmentId: selectedDepartmentId },
+                        success: function (data) {
+                            if (data && data.length > 0) {
+                                $.each(data, function (index, doctor) {
+                                    $('#doctor-dropdown').append($('<option></option>').val(doctor.id).html(doctor.doctorNameSurname));
+                                });
+                            } else {
+                                console.log("Seçilen departmana ait doktor bulunamadı.");
+                            }
+                        },
+                        error: function (xhr, status, error) {
+                            console.error("Doktorlar yüklenirken bir hata oluştu: " + error);
+                        }
+                    });
+                }
+            });
+
+       
+            function updateTimes() {
+                var selectedDoctorId = $('#doctor-dropdown').val();
+                var selectedDate = $('#date-input').val();
+
+            
+                $('#time-dropdown').empty();
+                $('#time-dropdown').append('<option value="">--Lütfen bir Saat seçiniz--</option>');
+
+                if (selectedDoctorId && selectedDate) {
+                    $.ajax({ 
+                        url: '@Url.Action("GetAvailableTimes", "Appointments")',
+                        type: 'GET',
+                        data: { doctorId: selectedDoctorId, appointmentDate: selectedDate },
+                        success: function (data) { 
+                            if (data && data.length > 0) {
+                                $.each(data, function (index, time) { 
+                                    $('#time-dropdown').append($('<option></option>').val(time.id).html(time.hour));
+                                });
+                            } else {
+                                console.log("Seçilen gün ve doktor için uygun saat bulunamadı.");
+                            }
+                        },
+                        error: function (xhr, status, error) {
+                            console.error("Uygun saatler yüklenirken bir hata oluştu: " + error);
+                        }
+                    });
+                }
+            }
+
+      
+            $('#doctor-dropdown').change(updateTimes);
+            $('#date-input').change(updateTimes);
+        });
+    </script>
+}

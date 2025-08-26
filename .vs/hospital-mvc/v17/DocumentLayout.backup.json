@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|c:\\users\\soner\\onedrive\\masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|solutionrelative:hospital-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|c:\\users\\soner\\onedrive\\masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\views\\appointments\\add_appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|solutionrelative:hospital-mvc\\views\\appointments\\add_appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|c:\\users\\soner\\onedrive\\masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\models\\entities\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|solutionrelative:hospital-mvc\\models\\entities\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|c:\\users\\soner\\onedrive\\masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\models\\entities\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|solutionrelative:hospital-mvc\\models\\entities\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|c:\\users\\soner\\onedrive\\masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\models\\entities\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|solutionrelative:hospital-mvc\\models\\entities\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|c:\\users\\soner\\onedrive\\masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\models\\doctorsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|solutionrelative:hospital-mvc\\models\\doctorsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|c:\\users\\soner\\onedrive\\masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\models\\appointmentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|solutionrelative:hospital-mvc\\models\\appointmentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|c:\\users\\soner\\onedrive\\masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|solutionrelative:hospital-mvc\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|c:\\users\\soner\\onedrive\\masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E23A5E2-F36A-4EBC-8AD6-AC7DF2CBF6CF}|hospital-mvc\\hospital-mvc.csproj|solutionrelative:hospital-mvc\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Program.cs",
+              "RelativeDocumentMoniker": "hospital-mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Program.cs",
+              "RelativeToolTip": "hospital-mvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:37:37.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add_appointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Views\\Appointments\\add_appointment.cshtml",
+              "RelativeDocumentMoniker": "hospital-mvc\\Views\\Appointments\\add_appointment.cshtml",
+              "ToolTip": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Views\\Appointments\\add_appointment.cshtml",
+              "RelativeToolTip": "hospital-mvc\\Views\\Appointments\\add_appointment.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAHsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:35:41.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Models\\Entities\\Doctors.cs",
+              "RelativeDocumentMoniker": "hospital-mvc\\Models\\Entities\\Doctors.cs",
+              "ToolTip": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Models\\Entities\\Doctors.cs",
+              "RelativeToolTip": "hospital-mvc\\Models\\Entities\\Doctors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:35:26.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Models\\Entities\\Departments.cs",
+              "RelativeDocumentMoniker": "hospital-mvc\\Models\\Entities\\Departments.cs",
+              "ToolTip": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Models\\Entities\\Departments.cs",
+              "RelativeToolTip": "hospital-mvc\\Models\\Entities\\Departments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:35:18.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointments.cs",
+              "DocumentMoniker": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Models\\Entities\\Appointments.cs",
+              "RelativeDocumentMoniker": "hospital-mvc\\Models\\Entities\\Appointments.cs",
+              "ToolTip": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Models\\Entities\\Appointments.cs",
+              "RelativeToolTip": "hospital-mvc\\Models\\Entities\\Appointments.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:35:05.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Models\\DoctorsViewModel.cs",
+              "RelativeDocumentMoniker": "hospital-mvc\\Models\\DoctorsViewModel.cs",
+              "ToolTip": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Models\\DoctorsViewModel.cs",
+              "RelativeToolTip": "hospital-mvc\\Models\\DoctorsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:34:53.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Models\\AppointmentsViewModel.cs",
+              "RelativeDocumentMoniker": "hospital-mvc\\Models\\AppointmentsViewModel.cs",
+              "ToolTip": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Models\\AppointmentsViewModel.cs",
+              "RelativeToolTip": "hospital-mvc\\Models\\AppointmentsViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:34:32.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "hospital-mvc\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "hospital-mvc\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:33:40.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "hospital-mvc\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\soner\\OneDrive\\Masa\u00FCst\u00FC\\hospital-appointment-app-mvc\\hospital-mvc\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "hospital-mvc\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwHYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:32:33.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

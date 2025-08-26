@@ -1,0 +1,41 @@
+﻿@{
+    Layout = null;
+}
+
+@model List<hospital_mvc.Models.Entities.Patients>;
+
+<html>
+<head>
+    <title>List Patients</title>
+    <link rel="stylesheet" href="/css/navbar.css" />
+</head>
+<body>
+    <div class="navbar">
+        <ul>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+        </ul>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th> Patient Name </th>
+                <th> Patient Surname</th>
+                <th> Patient Tc No</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var patient in Model)
+            {
+                <tr>
+                    <td>@patient.PatientName</td>
+                    <td>@patient.PatientSurname</td>
+                    <td>@patient.PatientTcNo</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
