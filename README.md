@@ -37,7 +37,6 @@ It allows administrators to manage **Departments**, **Doctors**, **Patients**, *
 
 ## Project Structure
 
-```
 Hospital-MVC/
 ├── Controllers/
 │   ├── AppointmentsController.cs
@@ -94,7 +93,7 @@ Hospital-MVC/
 ├── Program.cs
 ├── appsettings.json
 └── README.md
-```
+
 
 ---
 
